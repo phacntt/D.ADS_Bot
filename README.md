@@ -4,6 +4,6 @@
 - Pip 22.0.2
 
 ## 2. Install dependences
-1. Run `python -m venv venv`
+1. Run `python3 -m venv venv`
 2. Run `source venv/bin/activate`
 1. Run `pip3 install -r requirements.txt`
